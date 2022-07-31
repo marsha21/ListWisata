@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ListWisata</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="isbn">Isbn</string>
+    <string name="detail">Detail</string>
+    <string name="location">location</string>
+    <string name="halaman_profile">Halaman Profile</string>
+</resources>
